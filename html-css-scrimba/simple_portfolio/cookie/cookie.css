@@ -1,0 +1,21 @@
+div {
+    background: black;     /* red, blue, yellow, etc */
+    color: gold;   /* red, blue, yellow, etc */
+    font-size: 30px;        /* 0px - 100px and beyond */
+    font-weight: bold;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 1200px;        /* From 0px and upwards   */
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: #02e1fa;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
