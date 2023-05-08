@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.country{
+    height: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding-top: 30px;
+
+}
+
+.red{
+    background: #c71226;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.blue{
+    background: #0d1b88;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.green{
+    background: #006b3d;
+    height: 100px;
+}
